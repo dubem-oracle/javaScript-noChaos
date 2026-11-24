@@ -1,4 +1,4 @@
-
+const prompt = require("prompt-sync")();
     vowelChecker = " ";
     vowelCount = 0;
     vowel = "aeiouAEIOU";
